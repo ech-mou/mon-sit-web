@@ -102,7 +102,7 @@ article{
     padding: 20px;
 }
 article h3 a:link{
-    color: rgb(158, 102, 96);
+    
     border-bottom: 1px dotted rgb(158, 102, 96) ;
     font-size: 24pt;
     text-transform:uppercase ;
@@ -173,16 +173,14 @@ footer{
     width: 100%;
     padding-bottom: 20px;
     position: absolute;
-    top: 50%;
-    left: 63%;
-    transform: translate(-50%, -50%);
+    
+    transform: translate(15%, -0%);
 }
 #first-footer ul{
     list-style-type: none;
     float: left;
     width: 260px;
-    background-color: ;
-    margin-right: 10px;
+    margin-right: 0px;
 }
 #first-footer ul li{
     text-indent: 20px;
